@@ -59,3 +59,29 @@ Die App ist für den manuellen Versand einzelner SMS vorgesehen.
 **Ein Tippen auf das METTMAXXX-Logo = eine SMS.**
 
 Der Benutzer entscheidet selbst über Empfänger, Inhalt und jeden einzelnen Versand.
+
+⚖️ Rechtlicher Hinweis / Zulässige Nutzung
+
+Der METTMAXXX SMS ASSISTENT ist ausschließlich für die rechtmäßige und verantwortungsvolle Nutzung vorgesehen.
+
+Die App darf nicht verwendet werden, um andere Personen zu belästigen, zu bedrohen, zu täuschen oder unerwünschte Nachrichten bzw. Spam zu versenden. Ebenso ist jede Nutzung untersagt, die gegen geltendes Recht oder die Rechte Dritter verstößt.
+
+Der Nutzer ist selbst dafür verantwortlich, dass:
+
+- Nachrichten nur an Personen versendet werden, die kontaktiert werden dürfen,
+- keine Belästigung, Bedrohung oder Täuschung stattfindet,
+- keine rechtswidrigen Inhalte versendet werden,
+- geltende Datenschutz-, Telekommunikations- und sonstige gesetzliche Vorschriften eingehalten werden.
+
+Jede SMS wird ausschließlich durch eine bewusste Aktion des Nutzers ausgelöst. Die App besitzt keine automatische Massenversandfunktion.
+
+Der Entwickler übernimmt keine Verantwortung für eine missbräuchliche oder rechtswidrige Verwendung der App durch Dritte.
+
+Die App selbst wird kostenlos angeboten. Durch den Versand von SMS können abhängig vom jeweiligen Mobilfunkvertrag Kosten des Mobilfunkanbieters entstehen.
+
+Bitte nutze die App verantwortungsvoll und respektiere die Rechte anderer Personen.
+
+Dieser Hinweis stellt keine Rechtsberatung dar.
+
+Nachtrag:
+Bitte beachten: Auf Apple-Geräten (iPhone) können bestimmte SMS je nach Geräteeinstellungen, Absender oder Spamfilter automatisch gefiltert bzw. blockiert werden. Darauf hat die App keinen Einfluss.
