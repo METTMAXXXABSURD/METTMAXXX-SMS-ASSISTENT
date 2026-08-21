@@ -85,3 +85,7 @@ Dieser Hinweis stellt keine Rechtsberatung dar.
 
 Nachtrag:
 Bitte beachten: Auf Apple-Geräten (iPhone) können bestimmte SMS je nach Geräteeinstellungen, Absender oder Spamfilter automatisch gefiltert bzw. blockiert werden. Darauf hat die App keinen Einfluss.
+Hinweis zur Entwicklung
+
+Ich bin kein Programmierer oder Hacker. Ich nutze KI-Tools, um meine Ideen umzusetzen und daraus einfache Apps und Projekte zu erstellen.
+
